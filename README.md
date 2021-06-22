@@ -10,6 +10,8 @@ API built with Elixir and Phoenix Framework.
 
 ## About
 
-I've built this API during the Rocketseat NLW event, in which we learned the basics of backend development with Elixir and Phoenix framework.
+We've built this API during the Rocketseat NLW event, in which we learned the basics of backend development with Elixir and Phoenix framework.
 
 We learned the basics of Elixir, the Phoenix Framework and functional programming, like pattern matching, immutability or how Phoenix handle request and responses.
+
+We also learned how Elixir connects to and manipulates the database using Ecto and how to create and read entities in our database.
